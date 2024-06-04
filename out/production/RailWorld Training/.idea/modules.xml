@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day-3/Day-3.iml" filepath="$PROJECT_DIR$/Day-3/Day-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_17_jdbc/Day_17_jdbc.iml" filepath="$PROJECT_DIR$/Day_17_jdbc/Day_17_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee_Management_App/Employee_Management_App.iml" filepath="$PROJECT_DIR$/Employee_Management_App/Employee_Management_App.iml" />
       <module fileurl="file://$PROJECT_DIR$/RailWorld Training.iml" filepath="$PROJECT_DIR$/RailWorld Training.iml" />
     </modules>
   </component>
